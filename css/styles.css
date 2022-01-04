@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(216, 216, 250, 0.438);
+  }
+
+  hr {
+      background-color: aliceblue;
+      border-style: dotted none none;
+      width: 35%;
+      
+      color: gray;
+  }
